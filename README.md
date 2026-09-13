@@ -191,6 +191,42 @@ Beberapa hal yang saya pelajari antara lain:
 ---
 
 ---
+## Screenshoot
+**Halaman Login User**
+<br>
+<img width="864" height="584" alt="image" src="https://github.com/user-attachments/assets/48d9bab6-e7a1-4f09-9ab2-14fe34ce7fa4" />
+<br>
+**Halaman Register**
+<br><img width="551" height="327" alt="image" src="https://github.com/user-attachments/assets/8183e5aa-b954-459d-a12b-6e288cc8d952" />
+<br>
+**Halaman Home**
+<br<img width="565" height="277" alt="image" src="https://github.com/user-attachments/assets/b390ee78-1633-4953-8d44-6dd2eaf7f173" />
+><br>
+**Halaman Kategori Produk**<br><img width="558" height="198" alt="image" src="https://github.com/user-attachments/assets/49d28c11-2948-4460-9316-9358f6fb6ff8" />
+<br>
+**Halaman Detail Produk**<br><img width="510" height="349" alt="image" src="https://github.com/user-attachments/assets/cf753cee-f6af-45b1-8b80-9fc450799514" />
+<br>
+**Halaman Shopping Cart**<br><img width="488" height="244" alt="image" src="https://github.com/user-attachments/assets/167a1e6a-220f-4f53-a5f8-e7a9ec91bc67" />
+<br>
+***Halaman Pembayaran**<br><img width="489" height="274" alt="image" src="https://github.com/user-attachments/assets/cac2fd66-b057-45e1-ac5a-9dfea964e6da" />
+<br>
+**Halaman Login Admin**<br><img width="474" height="327" alt="image" src="https://github.com/user-attachments/assets/5aa8040a-9ede-4849-a16a-230347cfae9f" />
+<br>
+**Halaman Dashboard Admin**<br><img width="602" height="370" alt="image" src="https://github.com/user-attachments/assets/2265c9a2-e58b-4b89-9c7a-ae2e65b10ae4" />
+<br>
+**Halaman Kelola Kategori**<br><img width="602" height="286" alt="image" src="https://github.com/user-attachments/assets/3fd87832-07e9-46ab-be04-f1d783cb43c1" />
+<br>
+**Halaman Kelola Produk**<br><img width="573" height="499" alt="image" src="https://github.com/user-attachments/assets/480c8dae-a205-43be-b929-07ab1de3f652" />
+<br>
+**Halaman Kelola Pembelian**<br><img width="602" height="240" alt="image" src="https://github.com/user-attachments/assets/8b932f1e-5322-4d3e-9352-160929c68ba2" />
+<br>
+**Halaman Kelola User**<br<img width="602" height="200" alt="image" src="https://github.com/user-attachments/assets/efc25777-6700-4b98-b336-9ee6c10794e6" />
+><br>
+**Tombol Logout**<br><img width="453" height="148" alt="image" src="https://github.com/user-attachments/assets/dd002817-f08f-4014-b992-dfa30ffc6cbd" />
+<br>
+
+
+
 
 ## 📌 Project Status
 
