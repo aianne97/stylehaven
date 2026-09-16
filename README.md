@@ -86,7 +86,7 @@ Halaman untuk melanjutkan proses pembelian produk.
 
 ## 🛠️ Technologies
 
-> Sesuaikan bagian ini dengan teknologi yang benar-benar digunakan di project kamu.
+
 
 * HTML
 * CSS
@@ -94,62 +94,11 @@ Halaman untuk melanjutkan proses pembelian produk.
 * PHP
 * MySQL
 
----
 
-## 📸 Screenshots
 
-### Login & Register
 
-Tambahkan screenshot halaman login dan register di sini.
 
-### Homepage
 
-Tambahkan screenshot homepage di sini.
-
-### Product Category
-
-Tambahkan screenshot halaman kategori produk di sini.
-
-### Product Detail
-
-Tambahkan screenshot halaman detail produk di sini.
-
-### Shopping Cart
-
-Tambahkan screenshot shopping cart di sini.
-
-### Payment
-
-Tambahkan screenshot halaman pembayaran di sini.
-
----
-
-## 📂 Project Structure
-
-```text
-Style-Haven/
-│
-├── index.php
-├── login.php
-├── register.php
-├── cart.php
-├── payment.php
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│   └── ...
-│
-└── README.md
-```
-
-> Struktur folder di atas adalah contoh. Sesuaikan dengan struktur project yang sebenarnya sebelum di-upload ke GitHub.
-
----
 
 ## 🚀 How to Run
 
